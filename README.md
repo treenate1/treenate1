@@ -29,7 +29,7 @@
 ## 🎯 About Me  
  
 🛠 **Skilled in** Java, HTML, CSS, JavaScript, Database Design & Testing Tools  
-⚡ **Daily driver stack** : Java · MySQL · HTML · CSS · JavaScript · Testing Tools (Selenium, Robot Framework)  
+🛠 **Daily driver stack** : Java · MySQL · HTML · CSS · JavaScript · Testing Tools (Selenium, Robot Framework)  
 🎯 **2025 Goal**: Improve my skills to become more proficient and reliable
 
 ---
